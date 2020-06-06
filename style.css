@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body {
+.contact {
     background: radial-gradient(rgba(6, 6, 61) 0, rgba(126, 11, 88) );
     background-size: cover;
     font-family: sans-serif;
@@ -17,7 +17,6 @@ body {
 .contact-title h2 {
     font-size: 25px;
     line-height: 20px;
-    text-transform: uppercase;
 }
 .contact-title h3 {
     font-size: 20px;
@@ -52,5 +51,4 @@ form .submit {
 form .submit:hover {
     color: aqua;
     cursor: pointer;
-
 }
